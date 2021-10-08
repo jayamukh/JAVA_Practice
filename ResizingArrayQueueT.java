@@ -84,6 +84,6 @@ public class ResizingArrayQueueT<T> implements Iterable<T> {
                 StdOut.println(q.dequeue() + " ");
             }
         }
-        StdOut.println(q.size() + " left on queue");
+        //StdOut.println(q.size() + " left on queue");
     }
 }
