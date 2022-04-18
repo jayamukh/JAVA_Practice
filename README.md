@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jayamukh a Sr. Software Engineer
-- 👀 I’m revisiting DSA again
-- 🌱 I’m currently practicing DSA with Java
+- 👋 Hi, I’m a Sr. Software Engineer
+- 👀 I’m revisiting DSA again and nurturing my core JAVA skills
+- 🌱 I’m currently practicing DSA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jayamukherjee.csus@gmail.com
 
